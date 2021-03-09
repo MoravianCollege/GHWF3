@@ -4,8 +4,7 @@
 Practice space for using the Github Workflow.
 
 Participants:
-Tyler Valentine (valentinet02@moravian.edu)
-
+Nikolas Kovacs (kovacsn@moravian.edu)
 
 ## Setup
 
