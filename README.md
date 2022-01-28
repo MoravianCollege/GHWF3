@@ -7,7 +7,8 @@ Participants:
 Ben Coleman
 Cory Little
 Jack Fineanganofo
-
+Cory (again)
+Jack (again)
 ## Setup
 
 Before you begin work with this repo, run the following commands:
