@@ -7,6 +7,7 @@ Participants:
 Ben Coleman
 Cory Little
 Jack Fineanganofo
+Cory (again)
 
 ## Setup
 
