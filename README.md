@@ -4,7 +4,7 @@
 Practice space for using the Github Workflow.
 
 Participants:
-Ben Coleman
+Dr.Ben Coleman
 Cory Little
 Jack Fineanganofo
 Cory (again)
